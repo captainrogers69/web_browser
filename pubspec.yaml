@@ -22,7 +22,7 @@ dependencies:
   webview_flutter_wkwebview: ^3.2.1
 
   # Packages by other parties:
-  share_plus: ^6.3.1
+  share_plus: ^7.0.2
 
 dev_dependencies:
   flutter_lints: ^2.0.1
